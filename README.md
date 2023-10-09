@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ganeshtekkem
+- 👋 Hi, I’m Tekkem Ganesh
 - 👀 I’m interested in Artificial Intelligence and Data Analysis
 - 🌱 I’m currently learning Deep Learnig models 
 - 💞️ I’m looking to collaborate on developing complex algorithms to solve real world problems
