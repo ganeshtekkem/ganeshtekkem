@@ -1,5 +1,4 @@
-![Header](/[https://cdn.dribbble.com/users/1523313/screenshots/16134521/media/3975730626bdae63cf9b25d3b634bac3.gif])
-#[![MasterHead](https://cdn.dribbble.com/users/1523313/screenshots/16134521/media/3975730626bdae63cf9b25d3b634bac3.gif)]
+![Header](./AI_banner.gif)
 <h1 align="center">Hi 👋, I'm Ganesh Tekkem</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" width="400" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932">
