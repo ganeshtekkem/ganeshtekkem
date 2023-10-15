@@ -1,4 +1,4 @@
-![Header](./AI_banner.gif)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ganesh Tekkem</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" width="400" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932">
