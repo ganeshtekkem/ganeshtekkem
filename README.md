@@ -1,14 +1,15 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ganesh Tekkem</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate developer exploring the intersection of data, code, and creativity.</h3>
 <img align="right" width="400" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshtekkem&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshtekkem" /> </p>
 
-- 🔭 I’m currently working on **StackOverFlow Clone app**
+- 🤖 Working on real-world projects in GenAI, performance engineering, and intelligent automation.
+- 💡 Skilled in Python, SQL, and building AI-driven systems for stock analysis, feedback platforms, and computer vision
 
-- 🌱 I’m currently learning **React Js,Node Js**
+- 📚 Lifelong learner | 🚀 GenAI Explorer | 💻 Kaggle Enthusiast
 
-- 👯 I’m looking to collaborate on **Artificial Inteligence and Machine learning**
+- Always excited to build, learn, and share. Let’s innovate with data!
 
 - 💬 Ask me about **DSA Machine Learning**
 
