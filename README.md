@@ -1,5 +1,3 @@
-![Header](./github-header-image.png)
-
 <h1 align="center">Hi 👋, I'm Ganesh Tekkem</h1>
 <h3 align="center">
 Backend Engineer | Java & Spring Boot | AI Systems | Cloud & Scalable Architecture
